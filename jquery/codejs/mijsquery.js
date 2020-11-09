@@ -3,8 +3,7 @@
 $(document).ready(function(){
 	
 	"use strict";
-				  
-		$("#carrete img").hide();			  
-				  
-				
-  });
+	$("#anuncio").width(500).height(500).text("¡VENDE!").hide().fadeIn(10000);
+	
+	
+});
